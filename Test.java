@@ -32,7 +32,7 @@ public class Test {
     public static void main(String[] args) {
         int x = 589;
         int y = 10;
-
+        add(y, x);
         add(x, y);
         sub(x, y);
         mul(x, y);
